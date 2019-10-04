@@ -1,14 +1,14 @@
 # CMPT276 group project
 
-Background
+# Background
 
 Nowadays, it is very common for people to dine by themselves due to the fast-paced urban life. We may have got used to it, or more likely just ignored the existence of loneliness in our hearts. To solve such kind of unpleasant experience and let every lonely diner have a sense of belonging, we designed our application, DiningPal.
 
-Introduction
+# Introduction
 
 DiningPalis an online web application allowing multiple users to make plans of dining together. After sign-up/login, users can propose their favorite restaurant(s) (with ranks) and find friends (or strangers), who also prefer similar restaurant during that specific time to have dinner together. The features of this application will include locating users,positioning/ranking/auto-recommendrestaurants, with future implementations including chat rooms, usersfilter system, map navigation, coupon search, weather condition check and so on. Though this application can be used to arrange other places of collective activities, such as gym, theaters, shopping malls etc., it is primarily designed to help people find diner mates in an easy and comfortable way.
 
-What I did:
+# What I did:
 Basically I was responsible for three tasks:
 1. Build the chatroom using socket.io service and MongoDB.
 2. Build the "food digger" functionality using Zomato API and Google Map API. 
@@ -17,7 +17,7 @@ Basically I was responsible for three tasks:
 I also joined the design and creation of the main user interface (HTML/CSS/JavaScript edit). 
 
 
-Presented By:
+# Presented By:
 ZiyiAn 301371687,
 George He 301315033,
 Bowen Wang 301267523,
