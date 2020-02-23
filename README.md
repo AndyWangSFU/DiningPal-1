@@ -7,7 +7,7 @@ Nowadays, it is very common for people to dine by themselves due to the fast-pac
 
 # Introduction 
 
-DiningPal is an online web application allowing multiple users to make plans of dining together. After sign-up/login, users can propose their favorite restaurant(s) (with ranks) and find friends (or strangers), who also prefer similar restaurant during that specific time to have dinner together. 
+DiningPal is an online web application (Mainly based on: HTML, CSS, JavaScript) allowing multiple users to make plans of dining together. After sign-up/login, users can propose their favorite restaurant(s) (with ranks) and find friends (or strangers), who also prefer similar restaurant during that specific time to have dinner together. 
 
 The features of this application will include locating users,positioning/ranking/auto-recommend restaurants, with future implementations including chat rooms, usersfilter system, map navigation, coupon search, weather condition check and so on. Though this application can be used to arrange other places of collective activities, such as gym, theaters, shopping malls etc., it is primarily designed to help people find diner mates in an easy and comfortable way.
 
