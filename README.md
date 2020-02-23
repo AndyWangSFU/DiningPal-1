@@ -1,4 +1,4 @@
-# DiningPal: A Sense of Belonging for Your Dining Experience
+# DiningPal: Find Your Soul-Diner. Enjoy!
 
 
 # Mission Statement 
@@ -14,7 +14,7 @@ The features of this application will include locating users,positioning/ranking
 
 # Usage
 
-The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html.  Register an account and have fun with DiningPal! This app accompanies with a [detailed documentation](https://github.com/AndyWangSFU/DiningPal-1/blob/master/Requirement_Document_Segfault_Final_Report.pdf). You can also discover its depth design notion. 
+The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html.  Register an account and have fun with DiningPal! This app accompanies with a [detailed documentation](https://github.com/AndyWangSFU/DiningPal-1/blob/master/Requirement_Document_Segfault_Final_Report.pdf). You can also make use of it and discover DiningPal's depth design notion. 
 
 Alternatively, you may be interested in its source script and run it locally. As this an APP based on Heroku, some packages are required. DiningPal supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - please check it out first.
 
@@ -44,7 +44,7 @@ or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Documentation
+## More Documentation
 
 For more information about using Node.js on Heroku, see these Dev Center articles:
 
@@ -68,6 +68,6 @@ Bowen Wang 301267523,
 Basically I was responsible for three tasks:
 1. Build the chatroom using socket.io service and MongoDB.
 2. Build the "food digger" functionality using Zomato API and Google Map API. 
-3. The main writer of our final documentation and leader of 15-min presentation.
+3. The main writer of our [final documentation](https://github.com/AndyWangSFU/DiningPal-1/blob/master/Requirement_Document_Segfault_Final_Report.pdf) and leader of 15-min presentation.
 
 I also joined the design and creation of the main user interface (HTML/CSS/JavaScript edit). 
