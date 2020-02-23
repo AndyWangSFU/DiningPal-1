@@ -14,7 +14,7 @@ The features of this application will include locating users,positioning/ranking
 
 # Usage
 
-The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html Register an account and have fun with DiningPal! This app accompanies with a [detailed documentation](https://github.com/AndyWangSFU/DiningPal-1/blob/master/Requirement_Document_Segfault_Final_Report.pdf). You can also discover its depth design notion. 
+The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html.  Register an account and have fun with DiningPal! This app accompanies with a [detailed documentation](https://github.com/AndyWangSFU/DiningPal-1/blob/master/Requirement_Document_Segfault_Final_Report.pdf). You can also discover its depth design notion. 
 
 Alternatively, you may be interested in its source script and run it locally. As this an APP based on Heroku, some packages are required. DiningPal supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - please check it out first.
 
