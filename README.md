@@ -58,11 +58,11 @@ For more information about using Node.js on Heroku, see these Dev Center article
 This is a group project for CMPT276 (Introduction to Software Engineering) in Summer 2019 at Simon Fraser University. The instructor is [Bobby Chan](https://www.sfu.ca/computing/people/faculty/bobbychan1.html). For more information on the course description, you can refer to [here](https://www.sfu.ca/students/calendar/2019/summer/courses/cmpt/276.html). 
 
 ## Presented Together By:
-Ziyi An 301371687,
-George He 301315033,
-Bowen Wang 301267523,
-[Zihan Wang](https://www.linkedin.com/in/andywangsfu/) 301329429,
-[Chen Zhao](https://www.linkedin.com/in/chen-zhao-13460217a/) 301308092
+- Ziyi An 301371687,
+- George He 301315033,
+- Bowen Wang 301267523,
+- [Zihan Wang](https://www.linkedin.com/in/andywangsfu/) 301329429,
+- [Chen Zhao](https://www.linkedin.com/in/chen-zhao-13460217a/) 301308092
 
 ## My Contribution:
 Basically I was responsible for three tasks:
