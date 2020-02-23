@@ -1,12 +1,11 @@
 # DiningPal: A Sense of Belonging for Your Dining Experience
 
-# Background
 
-## Mission Statement of Our Design
+# Mission Statement of Our Design
 Nowadays, it is very common for people to dine by themselves due to the fast-paced urban life. We may have got used to it, or more likely just ignored the existence of loneliness in our hearts. To solve such kind of unpleasant experience and let every lonely diner have a sense of belonging, we designed our application, DiningPal.
 
 
-# Introduction
+# Introduction of this App
 
 DiningPal is an online web application allowing multiple users to make plans of dining together. After sign-up/login, users can propose their favorite restaurant(s) (with ranks) and find friends (or strangers), who also prefer similar restaurant during that specific time to have dinner together. 
 
@@ -15,15 +14,15 @@ The features of this application will include locating users,positioning/ranking
 
 # Usage
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+Alternatively, you may be interested in its source script and run it locally. As this an APP based on Heroku, some packages are required. DiningPal supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - please check it out first.
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Next, make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
-```sh
+```bash
 $ git clone https://github.com/ZiyiAn/DiningPal.git # or clone your own fork
 $ cd node-js-getting-started
 $ npm install
@@ -32,9 +31,11 @@ $ npm start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
+Please note that in local status, some service such as map may be unavailable because they need API support.
+
 ## Deploying to Heroku
 
-```
+```bash
 $ heroku create
 $ git push heroku master
 $ heroku open
@@ -62,7 +63,8 @@ George He 301315033,
 Bowen Wang 301267523,
 Zihan Wang 301329429,
 Chen Zhao 301308092
-# My Contribution:
+
+## My Contribution:
 Basically I was responsible for three tasks:
 1. Build the chatroom using socket.io service and MongoDB.
 2. Build the "food digger" functionality using Zomato API and Google Map API. 
