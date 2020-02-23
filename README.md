@@ -1,11 +1,11 @@
 # DiningPal: A Sense of Belonging for Your Dining Experience
 
 
-# Mission Statement of Our Design
+# Mission Statement 
 Nowadays, it is very common for people to dine by themselves due to the fast-paced urban life. We may have got used to it, or more likely just ignored the existence of loneliness in our hearts. To solve such kind of unpleasant experience and let every lonely diner have a sense of belonging, we designed our application, DiningPal.
 
 
-# Introduction of this App
+# Introduction 
 
 DiningPal is an online web application allowing multiple users to make plans of dining together. After sign-up/login, users can propose their favorite restaurant(s) (with ranks) and find friends (or strangers), who also prefer similar restaurant during that specific time to have dinner together. 
 
@@ -14,7 +14,7 @@ The features of this application will include locating users,positioning/ranking
 
 # Usage
 
-The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html
+The easiest way to access this app is to visit DiningPal's website: https://diningpal-czhao.herokuapp.com/startpage.html Register an account and have fun with DiningPal! This app accompanies with a [detailed documentation](https://github.com/AndyWangSFU/DiningPal-1/blob/master/Requirement_Document_Segfault_Final_Report.pdf). You can also discover its depth design notion. 
 
 Alternatively, you may be interested in its source script and run it locally. As this an APP based on Heroku, some packages are required. DiningPal supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - please check it out first.
 
@@ -61,8 +61,8 @@ This is a group project for CMPT276 (Introduction to Software Engineering) in Su
 Ziyi An 301371687,
 George He 301315033,
 Bowen Wang 301267523,
-Zihan Wang 301329429,
-Chen Zhao 301308092
+[Zihan Wang](https://www.linkedin.com/in/andywangsfu/) 301329429,
+[Chen Zhao](https://www.linkedin.com/in/chen-zhao-13460217a/) 301308092
 
 ## My Contribution:
 Basically I was responsible for three tasks:
