@@ -1,4 +1,4 @@
-# DiningPal: *Find Your Soul-Diner. Enjoy!*
+# *DiningPal: Find Your Soul-Diner. Enjoy!*
 
 
 # Mission Statement 
