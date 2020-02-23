@@ -54,7 +54,9 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
 
-# Course Background
+# Build Background
+
+## Course 
 This is a group project for CMPT276 (Introduction to Software Engineering) in Summer 2019 at Simon Fraser University. The instructor is [Bobby Chan](https://www.sfu.ca/computing/people/faculty/bobbychan1.html). For more information on the course description, you can refer to [here](https://www.sfu.ca/students/calendar/2019/summer/courses/cmpt/276.html). 
 
 ## Presented Together By:
