@@ -66,10 +66,10 @@ This is a group project for CMPT276 (Introduction to Software Engineering) in Su
 
 ## Software Design Process
 
-Briefly, we used Agile Development Process in a period of two month. 
-1. 
-2.
-3.
+Briefly, we applied Agile Development Process and Scrum Framework in a period of two month. 
+- Iteration 1: Basic user interface done. Login/Logout finished.
+- Iteration 2: Major functionalities done (Map, Chatroom, Weather, etc.)
+- Iteration 3: Other minor functionalities done ("FoodDigger", etc.) and bug fixed. Final documentation done. 
 
 ## My Contribution:
 Basically I was responsible for three tasks:
