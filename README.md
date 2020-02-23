@@ -64,6 +64,13 @@ This is a group project for CMPT276 (Introduction to Software Engineering) in Su
 - [Zihan Wang](https://www.linkedin.com/in/andywangsfu/) 301329429,
 - [Chen Zhao](https://www.linkedin.com/in/chen-zhao-13460217a/) 301308092
 
+## Software Design Process
+
+Briefly, we used Agile Development Process in a period of two month. 
+1. 
+2.
+3.
+
 ## My Contribution:
 Basically I was responsible for three tasks:
 1. Build the chatroom using socket.io service and MongoDB.
